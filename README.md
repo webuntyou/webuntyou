@@ -49,4 +49,4 @@ Joining our community is easy! Simply sign up to gain access to our forums, even
 #### Contact Us
 Have questions or suggestions? We'd love to hear from you! Reach out to us via [contact@vbuntu.org](mailto:contact@vbuntu.org) and let's continue building this vibrant engineering community together.   
 
-Thank you for visiting Vbuntu.org. Let's embark on this exciting journey of exploration, innovation, productivity, and Ubuntu spirit together!
+Thank you for visiting [Vbuntu.org](https://vbuntu.org). Let's embark on this exciting journey of exploration, innovation, productivity, and Ubuntu spirit together!
