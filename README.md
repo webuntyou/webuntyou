@@ -44,7 +44,7 @@ At Vbuntu, we embrace the **Ubuntu** philosophy—a concept deeply rooted in Afr
 
 
 ## Get Involved
-Joining our community is easy! Simply sign up to gain access to our forums, events calendar, and exclusive resources. Whether you're looking to learn, share your expertise, boost productivity, or simply connect with fellow engineers, you'll find a place here.   
+Joining our community is easy! Simply [sign up](https://forms.gle/cPtLBxaxEqF1cezU8) to gain access to our forums, events calendar, and exclusive resources. Whether you're looking to learn, share your expertise, boost productivity, or simply connect with fellow engineers, you'll find a place here.   
 
 #### Contact Us
 Have questions or suggestions? We'd love to hear from you! Reach out to us via [contact@vbuntu.org](mailto:contact@vbuntu.org) and let's continue building this vibrant engineering community together.   
