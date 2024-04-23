@@ -17,9 +17,7 @@ We believe in the power of community-driven learning and the transformative impa
 Projects and Challenges: Engage in collaborative projects and hands-on challenges that push the boundaries of innovation. Whether it's a hackathon or a design competition, unleash your creativity and problem-solving skills.   
 
 **Educational Events**: Participate in webinars, workshops, and seminars hosted by industry experts. Stay updated on emerging technologies and gain valuable insights from experienced practitioners.
-Boosting Productivity.    
 
-In addition to being a hub for learning and collaboration, *Vbuntu* is committed to enhancing your productivity as an engineer.    
 
 ## Boosting Productivity
 In addition to being a hub for learning and collaboration, Vbuntu is committed to enhancing your productivity as an engineer. Here's how we can help:
